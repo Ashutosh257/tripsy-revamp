@@ -1,0 +1,51 @@
+
+
+/** ##################### */
+/** ##### CUSTOM CSS #### */
+/** ##################### */
+
+
+.user-label{
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.5rem; /* 24px */
+    line-height: 2rem; /* 32px */
+}
+
+.signup-link{
+    text-align: center;
+}
+
+.btn-custom{
+    background-color: #4DB5A6;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+
+
+
+/** PRODUCT.PHP **/
+
+
+.calendar{
+    background: #ffffff; 
+    cursor: pointer; 
+    padding: 5px 10px; 
+    border: 1px solid #ccc; 
+    /* width: 100% */
+}
+
+
+.prod-image{
+    width: 500px;
+    height: 300px;
+}
+
+.prod-name{
+    /* text-align: center; */
+    font-size: 1.25rem; /* 20px */
+    line-height: 1.75rem; /* 28px */
+    font-weight: 500;
+}
